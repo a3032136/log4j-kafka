@@ -1,5 +1,5 @@
 # log4j-kafka
-提供一个将日志输出log4j日志到kafka的工具。
+提供一个将标准log4j日志输出到kafka的工具。
 
 客户端配置：
 
